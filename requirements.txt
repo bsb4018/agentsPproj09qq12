@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+fastapi
+uvicorn
+sqlalchemy
+pytest
+pydantic
+matplotlib
+scikit-learn
+seaborn

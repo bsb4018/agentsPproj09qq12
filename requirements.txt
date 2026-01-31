@@ -9,3 +9,9 @@ pydantic
 matplotlib
 scikit-learn
 seaborn
+langgraph 
+langchain 
+langchain-google-genai 
+google-generativeai
+python-dotenv
+langsmith

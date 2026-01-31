@@ -5,5 +5,7 @@
 
 ```python
 uv venv
+.venv\Scripts\activate
 uv sync
 ```
+

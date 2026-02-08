@@ -5,7 +5,6 @@ fastapi
 uvicorn
 sqlalchemy
 pytest
-pydantic
 matplotlib
 scikit-learn
 seaborn
@@ -15,3 +14,7 @@ langchain-google-genai
 google-generativeai
 python-dotenv
 langsmith
+langchain-openai
+semantic-kernel==1.39.0
+openai
+faiss-cpu

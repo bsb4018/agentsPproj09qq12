@@ -4,8 +4,8 @@
 ### Create Environment and Install Dependencies
 
 ```python
-uv venv
-.venv\Scripts\activate
-uv sync
+python -m venv env
+env/Scripts/activate
+pip install -r requirements.txt
 ```
 
